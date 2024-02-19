@@ -1,0 +1,13 @@
+Tail - Last shot echo, outdoors only (every shot for semi-autos)
+Outdoors Tail - Ambient echo that plays every shot outdoors (used on fast-firing weapons so it sounds neverending until you stop firing) (unused)
+Indoors Tail - Reverb played every shot indoors
+Shot - Actual gunshot sound
+Mech - Sound of weapon mechanics, always mixed with shot
+Chamber - Used for the code that makes you chamber a round after reloading (for most normal guns), sound of bolt going back and forth
+
+Newer guns:
+
+TMG-6 Baser
+HPR-762 Frost
+PG-6 SOKOMME (old but revamped)
+SG-4 Breaker
